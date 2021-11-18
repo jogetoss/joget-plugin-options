@@ -1,0 +1,14 @@
+#builder {padding: 15px;}
+.fa-minus-circle {color:red;}
+.fa-plus-circle {color:green;}
+.repeater-item.panel {margin-bottom: 0; min-height: 80px;}
+.repeater-item > div {position: relative; padding-right: 25px;}
+.repeater-item > div > .repeater-buttons {position: absolute; top: 0px; right:4px;}
+.repeater-item > div > .repeater-buttons a {display: block; font-size: 16px; height: 16px; margin-bottom: 2px; cursor: pointer;}
+.textarray-item.panel {margin-bottom: 0;}
+.textarray-item > div {position: relative; padding-right: 80px;}
+.textarray-item > div > .textarray-buttons {position: absolute; top: 15px; right:9px;}
+.textarray-item > div > .textarray-buttons a {display: inline-block; font-size: 16px; height: 16px; margin-left: 2px; cursor: pointer;}
+.add_row {margin-top: 5px; font-size: 18px; display: block;}
+.tooltip {min-width: 500px;}
+.required {color:red;}
