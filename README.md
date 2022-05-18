@@ -3,8 +3,8 @@
 This project is meant to help generate the property editor UI for plugin development purposes. 
 Disclaimer: This project is still being developed.
 
-![Builder](https://github.com/[jogetoss]/[joget-plugin-options]/blob/[main]/image.png?raw=true)
-![Definition](https://github.com/[jogetoss]/[joget-plugin-options]/blob/[main]/image2.png?raw=true)
+![Builder](https://github.com/jogetoss/joget-plugin-options/blob/main/image.png?raw=true "Builder")
+![Definition](https://github.com/jogetoss/joget-plugin-options/blob/main/image2.png?raw=true "Definition")
 
 # Getting Help
 
